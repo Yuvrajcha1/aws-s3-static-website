@@ -16,6 +16,7 @@ This project demonstrates how to host a static website using Amazon S3 and distr
 
 ## 🌐 Live Website
 http://yuvraj-aws-7865.s3-website.eu-north-1.amazonaws.com/
+https://github.com/yourusername/aws-s3-static-website
 
 ---
 
@@ -24,6 +25,12 @@ http://yuvraj-aws-7865.s3-website.eu-north-1.amazonaws.com/
 - Public access configuration
 - Global CDN delivery using CloudFront
 - HTTPS enabled
+  
+
+---
+
+## 🏗️ Architecture
+User → CloudFront → S3 Bucket
 
 ---
 
